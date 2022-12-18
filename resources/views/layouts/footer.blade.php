@@ -28,21 +28,20 @@
 
         <!-- BEGIN TWITTER BLOCK --> 
         <div class="col-md-3 col-sm-6 pre-footer-col">
-          <h2 class="margin-bottom-0">Latest Tweets</h2>
-          <a class="twitter-timeline" href="https://twitter.com/twitterapi" data-tweet-limit="2" data-theme="dark" data-link-color="#57C8EB" data-widget-id="455411516829736961" data-chrome="noheader nofooter noscrollbar noborders transparent">Loading tweets by @keenthemes...</a>      
+
         </div>
         <!-- END TWITTER BLOCK -->
 
         <!-- BEGIN BOTTOM CONTACTS -->
         <div class="col-md-3 col-sm-6 pre-footer-col">
-          <h2>Our Contacts</h2>
+          <h2>Liên hệ</h2>
           <address class="margin-bottom-40">
-            35, Lorem Lis Street, Park Ave<br>
-            California, US<br>
-            Phone: 300 323 3456<br>
-            Fax: 300 323 1456<br>
-            Email: <a href="mailto:info@metronic.com">info@metronic.com</a><br>
-            Skype: <a href="skype:metronic">metronic</a>
+            63 Huỳnh Thúc Kháng<br>
+            Quận 1, TP.Hồ Chí Minh<br>
+            Phone: xxx xxx xxxx<br>
+            Fax: xxx xxx xxxx<br>
+            Email: <a href="mailto:info@caothang.edu.vn">info@caothang.edu.vn</a><br>
+            
           </address>
         </div>
         <!-- END BOTTOM CONTACTS -->
@@ -66,12 +65,12 @@
         <!-- BEGIN NEWLETTER -->
         <div class="col-md-6 col-sm-6">
           <div class="pre-footer-subscribe-box pull-right">
-            <h2>Newsletter</h2>
+            <h2>Nhận bản tin</h2>
             <form action="#">
               <div class="input-group">
-                <input type="text" placeholder="youremail@mail.com" class="form-control">
+                <input type="text" placeholder="youremail@caothang.edu.vn" class="form-control">
                 <span class="input-group-btn">
-                  <button class="btn btn-primary" type="submit">Subscribe</button>
+                  <button class="btn btn-primary" type="submit">Đăng ký</button>
                 </span>
               </div>
             </form>
@@ -89,7 +88,7 @@
       <div class="row">
         <!-- BEGIN COPYRIGHT -->
         <div class="col-md-4 col-sm-4 padding-top-10">
-          2015 © Keenthemes. ALL Rights Reserved. 
+          2022 © CDTH 20PMC ALL Rights Reserved. 
         </div>
         <!-- END COPYRIGHT -->
         <!-- BEGIN PAYMENTS -->
@@ -105,7 +104,7 @@
         <!-- END PAYMENTS -->
         <!-- BEGIN POWERED -->
         <div class="col-md-4 col-sm-4 text-right">
-          <p class="powered">Powered by: <a href="http://www.keenthemes.com/">KeenThemes.com</a></p>
+          <p class="powered">Powered by: <a href="https://caothang.edu.vn/m/">Lộc_Huy_Trung_Hiên_Nhân</a></p>
         </div>
         <!-- END POWERED -->
       </div>
