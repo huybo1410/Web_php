@@ -20,3 +20,4 @@ Route::get('/', function () {
 
 Route :: get('products',[ProductsController:: class,'index']);
 
+Route::get('product_detail/{id}','App\Http\Controllers\PageController@getChitiet')->name('chitietsanpham');
